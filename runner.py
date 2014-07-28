@@ -22,8 +22,6 @@ express_names = [player.last_name for player in players]
 
 print express_names
 
-print names
-
 # la = Team('Lakers', 'Staple', 2000)
 # la.starting_five(kobe)
 # la.starting_five(shaq)
